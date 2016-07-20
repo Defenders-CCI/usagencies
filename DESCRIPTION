@@ -1,6 +1,6 @@
 Package: usagencies
 Type: Package
-Title: Provides Names and Hierarchy of U.S. Government Agencies
+Title: Names and Hierarchy of U.S. Government Agencies
 Version: 0.1.0
 Authors@R: person("Jacob", "Malcom", email = "jmalcom@defenders.org", role = c("aut", "cre"))
 Description: A data package for the names and hierarchical relationships of U.S.
