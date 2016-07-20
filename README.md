@@ -8,4 +8,4 @@ Names and Hierarchy of U.S. Government Agencies
 
 ### Contributing
 
-Find an error in the dataset? Want additional access functions? Feel free to contribute! Clone the repo, make changes, and submit a pull request. Not sure where to start? Feel free to [contact us](esa@defenders.org).
+Find an error in the dataset? Want additional access functions? Feel free to contribute! Clone the repo, make changes, and submit a pull request. Not sure where to start? Feel free to [contact us](mailto:esa@defenders.org).
